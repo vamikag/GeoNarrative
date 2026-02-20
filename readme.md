@@ -2,7 +2,7 @@
 
 An interactive geo‑narrative exploring my favorite restaurants in Seattle. Built with Mapbox GL JS and Scrollama for the UW Geography Lab 07.
 
-🔗 **Live map:** 
+🔗 **Live map:** -  https://vamikag.github.io/GeoNarrative/
 
 ## Features
 - Full‑screen cover with background image
@@ -15,4 +15,5 @@ An interactive geo‑narrative exploring my favorite restaurants in Seattle. Bui
 - Restaurant locations: manually collected
 - Basemaps: Mapbox
 - Images: Unsplash / personal photos
+
 
