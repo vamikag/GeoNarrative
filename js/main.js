@@ -220,3 +220,4 @@ window.addEventListener('load', () => {
     // Add resize listener
     window.addEventListener('resize', adjustStoryboardSize);
 });
+
