@@ -1,4 +1,4 @@
-// 1. Set Mapbox access token (REPLACE WITH YOUR OWN)
+// 1. Set Mapbox access token 
 mapboxgl.accessToken = 'pk.eyJ1IjoidmFtaWthZyIsImEiOiJjbWt6MHV3YjEwMmdyM3FxMGZzNzlob3lvIn0.9ml0_x6-glv7a9AdaYc3QA';
 
 // 2. Declare global variables
@@ -220,4 +220,5 @@ window.addEventListener('load', () => {
     // Add resize listener
     window.addEventListener('resize', adjustStoryboardSize);
 });
+
 
